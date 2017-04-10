@@ -1,2 +1,2 @@
 # base_typescript_hapijs
-Base for hapijs projects with typescript
+Base for hapijs projects with typescript, gulp
